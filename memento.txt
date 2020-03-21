@@ -1,0 +1,175 @@
+Sun May 21 04:58:26 EET 2017
+Score=23   |   Time=15   |   No. of objects=3   |   Level=1
+Score=24   |   Time=20   |   No. of objects=3   |   Level=1
+Score=25   |   Time=25   |   No. of objects=3   |   Level=1
+Score=26   |   Time=28   |   No. of objects=2   |   Level=1
+Score=27   |   Time=31   |   No. of objects=2   |   Level=2
+Sun May 21 05:01:55 EET 2017
+Score=28   |   Time=23   |   No. of objects=7   |   Level=1
+Sun May 21 14:17:18 EET 2017
+Score=29   |   Time=13   |   No. of objects=11   |   Level=1
+Score=30   |   Time=27   |   No. of objects=23   |   Level=1
+Score=31   |   Time=57   |   No. of objects=48   |   Level=2
+Score=32   |   Time=61   |   No. of objects=48   |   Level=3
+Score=33   |   Time=67   |   No. of objects=52   |   Level=3
+Sun May 21 14:37:57 EET 2017
+Score=34   |   Time=10   |   No. of objects=3   |   Level=1
+Score=35   |   Time=26   |   No. of objects=16   |   Level=1
+Score=36   |   Time=32   |   No. of objects=16   |   Level=2
+Score=37   |   Time=80   |   No. of objects=33   |   Level=3
+Score=38   |   Time=89   |   No. of objects=38   |   Level=3
+Score=39   |   Time=107   |   No. of objects=48   |   Level=4
+Score=40   |   Time=116   |   No. of objects=51   |   Level=4
+Score=41   |   Time=133   |   No. of objects=62   |   Level=5
+Score=42   |   Time=158   |   No. of objects=75   |   Level=6
+Score=43   |   Time=176   |   No. of objects=82   |   Level=6
+Sun May 21 15:08:24 EET 2017
+Score=44   |   Time=18   |   No. of objects=3   |   Level=1
+Score=45   |   Time=24   |   No. of objects=3   |   Level=1
+Sun May 21 15:09:53 EET 2017
+Sun May 21 15:10:39 EET 2017
+Sun May 21 15:15:28 EET 2017
+Score=46   |   Time=14   |   No. of objects=4   |   Level=1
+Sun May 21 15:16:35 EET 2017
+Score=47   |   Time=15   |   No. of objects=4   |   Level=1
+Sun May 21 15:28:49 EET 2017
+Score=48   |   Time=19   |   No. of objects=4   |   Level=1
+Score=49   |   Time=65   |   No. of objects=21   |   Level=3
+Score=50   |   Time=71   |   No. of objects=23   |   Level=3
+Score=51   |   Time=71   |   No. of objects=21   |   Level=3
+Score=52   |   Time=89   |   No. of objects=28   |   Level=3
+Score=53   |   Time=95   |   No. of objects=29   |   Level=4
+Sun May 21 15:56:51 EET 2017
+Score=54   |   Time=16   |   No. of objects=6   |   Level=1
+Score=55   |   Time=20   |   No. of objects=4   |   Level=1
+Sun May 21 15:57:32 EET 2017
+Sun May 21 15:58:01 EET 2017
+Sun May 21 15:59:00 EET 2017
+Score=56   |   Time=11   |   No. of objects=5   |   Level=1
+Sun May 21 16:00:50 EET 2017
+Sun May 21 16:01:59 EET 2017
+Sun May 21 16:03:05 EET 2017
+Score=57   |   Time=21   |   No. of objects=6   |   Level=1
+Sun May 21 16:11:07 EET 2017
+Score=58   |   Time=16   |   No. of objects=6   |   Level=1
+Score=59   |   Time=20   |   No. of objects=9   |   Level=1
+Score=60   |   Time=25   |   No. of objects=9   |   Level=1
+Score=61   |   Time=29   |   No. of objects=8   |   Level=1
+Score=62   |   Time=30   |   No. of objects=6   |   Level=2
+Score=63   |   Time=36   |   No. of objects=8   |   Level=2
+Score=64   |   Time=38   |   No. of objects=6   |   Level=2
+Score=65   |   Time=60   |   No. of objects=19   |   Level=3
+Score=66   |   Time=61   |   No. of objects=17   |   Level=3
+Score=67   |   Time=66   |   No. of objects=17   |   Level=3
+Score=68   |   Time=69   |   No. of objects=16   |   Level=3
+Score=69   |   Time=89   |   No. of objects=29   |   Level=3
+Score=70   |   Time=98   |   No. of objects=34   |   Level=4
+Score=71   |   Time=101   |   No. of objects=33   |   Level=4
+Score=72   |   Time=107   |   No. of objects=34   |   Level=4
+Score=73   |   Time=112   |   No. of objects=34   |   Level=4
+Score=74   |   Time=117   |   No. of objects=35   |   Level=4
+Sun May 21 16:16:06 EET 2017
+Sun May 21 16:40:51 EET 2017
+Score=75   |   Time=12   |   No. of objects=3   |   Level=1
+Sun May 21 16:42:30 EET 2017
+Sun May 21 16:43:02 EET 2017
+Score=76   |   Time=15   |   No. of objects=7   |   Level=1
+Score=77   |   Time=41   |   No. of objects=20   |   Level=2
+Sun May 21 17:01:57 EET 2017
+Score=78   |   Time=8   |   No. of objects=2   |   Level=1
+Score=79   |   Time=16   |   No. of objects=2   |   Level=1
+Score=80   |   Time=20   |   No. of objects=3   |   Level=1
+Score=81   |   Time=25   |   No. of objects=5   |   Level=1
+Score=82   |   Time=27   |   No. of objects=4   |   Level=1
+Score=83   |   Time=33   |   No. of objects=6   |   Level=2
+Score=84   |   Time=40   |   No. of objects=8   |   Level=2
+Score=85   |   Time=50   |   No. of objects=11   |   Level=2
+Sun May 21 17:03:19 EET 2017
+Score=86   |   Time=12   |   No. of objects=5   |   Level=1
+Score=87   |   Time=23   |   No. of objects=8   |   Level=1
+Score=88   |   Time=35   |   No. of objects=8   |   Level=2
+Score=89   |   Time=37   |   No. of objects=6   |   Level=2
+Score=90   |   Time=43   |   No. of objects=5   |   Level=2
+Score=91   |   Time=44   |   No. of objects=3   |   Level=2
+Score=92   |   Time=48   |   No. of objects=2   |   Level=2
+Score=93   |   Time=57   |   No. of objects=4   |   Level=2
+Score=94   |   Time=88   |   No. of objects=27   |   Level=3
+Score=95   |   Time=132   |   No. of objects=39   |   Level=3
+Sun May 21 17:15:16 EET 2017
+Score=96   |   Time=13   |   No. of objects=6   |   Level=1
+Sun May 21 18:46:19 EET 2017
+Score=1   |   Time=18   |   No. of objects=19   |   Level=1
+Score=2   |   Time=36   |   No. of objects=27   |   Level=2
+Score=3   |   Time=39   |   No. of objects=28   |   Level=2
+Score=4   |   Time=49   |   No. of objects=34   |   Level=2
+Score=5   |   Time=67   |   No. of objects=45   |   Level=3
+Score=6   |   Time=92   |   No. of objects=64   |   Level=3
+Sun May 21 19:48:34 EET 2017
+Sun May 21 19:49:23 EET 2017
+Sun May 21 19:49:43 EET 2017
+Sun May 21 19:50:48 EET 2017
+Sun May 21 19:51:18 EET 2017
+Score=1   |   Time=10   |   No. of objects=4   |   Level=1
+Score=2   |   Time=25   |   No. of objects=12   |   Level=1
+Sun May 21 20:00:08 EET 2017
+Score=3   |   Time=11   |   No. of objects=2   |   Level=1
+Score=4   |   Time=16   |   No. of objects=4   |   Level=1
+Score=5   |   Time=19   |   No. of objects=3   |   Level=1
+Score=6   |   Time=22   |   No. of objects=3   |   Level=1
+Score=7   |   Time=47   |   No. of objects=12   |   Level=2
+Sun May 21 20:54:48 EET 2017
+Score=8   |   Time=17   |   No. of objects=7   |   Level=1
+Score=9   |   Time=31   |   No. of objects=16   |   Level=2
+Score=10   |   Time=33   |   No. of objects=15   |   Level=2
+Mon May 22 01:13:11 EET 2017
+Score=11   |   Time=14   |   No. of objects=3   |   Level=1
+Score=12   |   Time=34   |   No. of objects=21   |   Level=2
+Score=13   |   Time=61   |   No. of objects=53   |   Level=3
+Score=14   |   Time=71   |   No. of objects=62   |   Level=3
+Score=15   |   Time=78   |   No. of objects=65   |   Level=3
+Score=16   |   Time=84   |   No. of objects=69   |   Level=3
+Score=17   |   Time=93   |   No. of objects=70   |   Level=3
+Mon May 22 01:16:03 EET 2017
+Score=1   |   Time=28   |   No. of objects=14   |   Level=1
+Score=2   |   Time=30   |   No. of objects=16   |   Level=2
+Score=3   |   Time=35   |   No. of objects=16   |   Level=2
+Score=4   |   Time=51   |   No. of objects=17   |   Level=2
+Score=5   |   Time=116   |   No. of objects=35   |   Level=3
+Wed May 24 01:03:09 EET 2017
+Score=6   |   Time=10   |   No. of objects=3   |   Level=1
+Score=7   |   Time=21   |   No. of objects=3   |   Level=1
+Score=8   |   Time=24   |   No. of objects=3   |   Level=1
+Score=9   |   Time=31   |   No. of objects=6   |   Level=2
+Score=10   |   Time=63   |   No. of objects=38   |   Level=3
+Wed May 24 12:36:45 EET 2017
+Score=1   |   Time=11   |   No. of objects=2   |   Level=1
+Score=2   |   Time=17   |   No. of objects=3   |   Level=1
+Wed May 24 12:41:37 EET 2017
+Score=3   |   Time=18   |   No. of objects=7   |   Level=1
+Score=4   |   Time=32   |   No. of objects=9   |   Level=2
+Score=5   |   Time=42   |   No. of objects=10   |   Level=2
+Score=6   |   Time=58   |   No. of objects=19   |   Level=2
+Score=7   |   Time=63   |   No. of objects=17   |   Level=3
+Score=8   |   Time=63   |   No. of objects=15   |   Level=3
+Score=9   |   Time=74   |   No. of objects=26   |   Level=3
+Score=10   |   Time=77   |   No. of objects=29   |   Level=3
+Score=11   |   Time=96   |   No. of objects=44   |   Level=3
+Score=12   |   Time=100   |   No. of objects=47   |   Level=3
+Score=13   |   Time=110   |   No. of objects=55   |   Level=3
+Score=14   |   Time=111   |   No. of objects=54   |   Level=3
+Wed May 24 12:47:35 EET 2017
+Wed May 24 12:49:00 EET 2017
+Wed May 24 13:22:27 EET 2017
+Score=1   |   Time=16   |   No. of objects=8   |   Level=1
+Score=2   |   Time=27   |   No. of objects=12   |   Level=1
+Score=3   |   Time=33   |   No. of objects=13   |   Level=2
+Score=4   |   Time=37   |   No. of objects=12   |   Level=2
+Score=5   |   Time=49   |   No. of objects=21   |   Level=2
+Score=6   |   Time=52   |   No. of objects=20   |   Level=2
+Score=7   |   Time=52   |   No. of objects=18   |   Level=2
+Score=8   |   Time=61   |   No. of objects=18   |   Level=3
+Score=9   |   Time=65   |   No. of objects=18   |   Level=3
+Score=10   |   Time=102   |   No. of objects=31   |   Level=3
+Score=11   |   Time=106   |   No. of objects=31   |   Level=3
+Score=12   |   Time=121   |   No. of objects=39   |   Level=3
+Score=13   |   Time=122   |   No. of objects=38   |   Level=3

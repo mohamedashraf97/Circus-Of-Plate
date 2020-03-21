@@ -1,0 +1,6 @@
+/red1.png
+/blue1.png
+/green1.png
+red
+blue
+green
